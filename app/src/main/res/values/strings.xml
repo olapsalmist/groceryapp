@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Groceries List</string>
+
+    <string-array name="groceries">
+        <item>5 alive</item>
+        <item>Apple and Eve</item>
+        <item>Ariel</item>
+        <item>Barella</item>
+        <item>Big oil</item>
+        <item>Bread</item>
+        <item>Campbell Soup</item>
+        <item>Canola</item>
+        <item>Chivita</item>
+        <item>Clean Power</item>
+        <item>Coast</item>
+        <item>Cowbell</item>
+        <item>Del Monte</item>
+        <item>Folgers</item>
+        <item>Hollandia</item>
+        <item>Luna Milk</item>
+        <item>Macleans</item>
+        <item>Maxwell</item>
+        <item>Nescafe</item>
+        <item>Quaker Oats</item>
+        <item>Canola Oil</item>
+        <item>Peal Milk</item>
+        <item>Peal Milk</item>
+        <item>Peanut Butter</item>
+        <item>Pine Chunks</item>
+        <item>Pineapple</item>
+        <item>Punch</item>
+        <item>Quaker</item>
+        <item>Sweet Corn</item>
+        <item>Tide</item>
+        <item>Tropicana</item>
+        <item>Twinkies Cereal</item>
+        <item>V8 Fruits</item>
+    </string-array>
+
+    <string-array name="Price">
+        <item>N550.00</item>
+        <item>N750.00</item>
+        <item>N550.00</item>
+        <item>N400.00</item>
+        <item>N550.00</item>
+        <item>N350.00</item>
+        <item>N550.00</item>
+        <item>N500.00</item>
+        <item>N400.00</item>
+        <item>N1200</item>
+        <item>N800</item>
+        <item>N1000</item>
+        <item>N2000</item>
+        <item>N2100</item>
+        <item>N800</item>
+        <item>N1500</item>
+        <item>N2100</item>
+        <item>N900</item>
+        <item>N600</item>
+        <item>N600</item>
+        <item>N1400</item>
+        <item>N500</item>
+        <item>N800</item>
+        <item>N2300</item>
+        <item>N1000</item>
+        <item>N650</item>
+        <item>N900</item>
+        <item>N1800</item>
+        <item>N3200</item>
+        <item>N700</item>
+        <item>N2200</item>
+        <item>N2100</item>
+        <item>N1500</item>
+
+    </string-array>
+
+
+</resources>
